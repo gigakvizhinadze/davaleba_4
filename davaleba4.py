@@ -34,5 +34,5 @@ result = student1.increase_grade(5)
 
 print(f"{student1.name}'s new ugrade: {student1._grade}")
 
-# Check if passing
+
 print(f"{student1.name} is passing: {result}")
